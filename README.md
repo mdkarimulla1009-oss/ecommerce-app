@@ -1,3 +1,3 @@
 # ecommerce-app
 
-<p> hi i am karim, i am building this app
+<p> Hi I am Karim, I have Bulding this app
